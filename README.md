@@ -2,7 +2,7 @@
 
 - 🔭 Em busca de uma vaga como Desenvolvedor Front-End Junior
 - 🌱 Estudando HTML, CSS, JavaScript e React.
-- 👩🏾‍💻 3º Cursando Tecnologia da Informação
+- 👩🏾‍💻 Cursando Tecnologia da Informação
 
  <div>
    <a href="https://github.com/iamcarllosjr">
