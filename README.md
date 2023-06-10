@@ -1,8 +1,8 @@
 ## 👋 Olá, sou o Carlos, seja bem vindo ao meu perfil !
 
-- 🔭 Em busca de uma vaga como Desenvolvedor Front-End Junior
-- 🌱 Estudando HTML, CSS, JavaScript e React.
-- 👩🏾‍💻 Cursando Tecnologia da Informação
+- Em busca de uma vaga como Desenvolvedor Front-End Junior
+- Conhecimento em HTML, CSS, Tailwind, JavaScript, Typescript, Solidity, React e Nextjs.
+- Cursando Tecnologia da Informação
 
  <div>
    <a href="https://github.com/iamcarllosjr">
