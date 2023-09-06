@@ -1,7 +1,8 @@
 ## 👋 Olá, sou o Carlos, seja bem vindo ao meu perfil !
 
-- Em busca de uma vaga como Desenvolvedor Front-End Junior
-- Conhecimento em HTML, CSS, Tailwind, JavaScript, Typescript, Solidity, React e Nextjs.
+- Desenvolvedor Frontend Web3
+- Linguagens e Frameworks : HTML, Tailwind, JavaScript, Typescript, Solidity, React e Nextjs.
+- Bibliotecas : Framer Motion(Frontend), Ethers.js(Web3), Wagmi(Web3).
 - Cursando Tecnologia da Informação
 
  <div>
